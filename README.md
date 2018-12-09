@@ -1,2 +1,0 @@
-# Examen
-Ejercisios del examen
